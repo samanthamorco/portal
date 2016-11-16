@@ -1,6 +1,6 @@
 # Portal
 
-**TODO: Add description**
+Done by following this tutorial: https://howistart.org/posts/elixir/1
 
 ## Installation
 
